@@ -3,20 +3,17 @@
   margin: 0;
   padding: 0;
 }
-
 body {
   font-family: "Montserrat", sans-serif;
   background: #f4f6fb;
   color: #111827;
 }
-
 /* Layout */
 section {
   max-width: 1200px;
   margin: 0 auto;
   padding: 3rem 1.5rem;
 }
-
 /* NAVBAR */
 header {
   position: sticky;
